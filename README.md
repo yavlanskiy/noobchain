@@ -1,2 +1,2 @@
 # noobchain
-Example blockchain project.
+Example blockchain project fom Java
