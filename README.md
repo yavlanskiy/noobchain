@@ -1,0 +1,2 @@
+# noobchain
+Example blockchain project.
