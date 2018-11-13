@@ -1,4 +1,4 @@
-package main.com.noobchain.util;
+package noobchain.util;
 
 import java.security.MessageDigest;
 

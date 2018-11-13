@@ -1,6 +1,4 @@
-package main.com;
-
-import main.com.noobchain.model.Block;
+import noobchain.model.Block;
 
 public class Main {
     public static void main(String[] args) {

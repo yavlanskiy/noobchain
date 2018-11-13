@@ -1,6 +1,7 @@
-package main.com.noobchain.model;
+package noobchain.model;
 
-import main.com.noobchain.util.StringUtil;
+
+import noobchain.util.StringUtil;
 
 import java.util.Date;
 

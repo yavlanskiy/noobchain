@@ -1,7 +1,7 @@
-package main.com.noobchain;
+package noobchain;
 
 import com.google.gson.GsonBuilder;
-import main.com.noobchain.model.Block;
+import noobchain.model.Block;
 
 import java.util.ArrayList;
 
